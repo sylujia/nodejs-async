@@ -1,0 +1,11 @@
+{
+  "name": "application-name",
+  "version": "0.0.1",
+  "dependencies": {
+    "async": "latest",
+    "moment": "latest",
+    "twix": "latest",
+    "express": "latest",
+    "node-schedule": "latest"
+  }
+}
